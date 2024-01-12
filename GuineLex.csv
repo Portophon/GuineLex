@@ -1,0 +1,209 @@
+ID,Gloss,Class,Portuguese_ort,Portuguese,Kriyol_ort,Kriyol_Mandinka,Kriyol_Balanta,Kriyol_Fula,Mandinka,Balanta,Fula
+1,big,adjective,grande,ˈgɾɐ̃dɨ,garandi,ˈgɾãdi,gɐˈɾãdi,gaˈɾãdi,waɾ(a)maː,ˈdɐ̃,ˈⁿd͡ʒanu
+2,long,adjective,comprido,kõˈpɾiðu,kumpridu,kũˈpɾiɾu,kũˈpɾidu,kumˈpɾiɖu,ɟ͡ʝeɲamaː / ɟ͡ʝamaː,ˈkut,ˈd͡ʒuːti
+3,wide,adjective,largo,ˈlaɾgu,largu,ˈlaɾgu,ˈlaɾgu,ˈlaɾgu,fanumaː,,jaˈd͡ʒi
+4,thick,adjective,grosso,ˈgɾosu,gros,ˈgɾɔs,ˈgɾɔs,,fanumaː,,
+5,heavy,adjective,pesado,pɨˈzaðu,pisadu,,piˈzadu,piˈsa:ɖu,warumaː / kalumaaː,ˈlep,ˈteɗi
+6,small,adjective,pequeno,pɨˈkenu,pikininu,pikiˈninu,pikiˈninu,pikiˈninu,nuandjumaː,ˈsõɨ,tosɔkɔ/ fãˈɗi
+7,short,adjective,curto,ˈkuɾtu,kurtu,ˈkuɾtu,ˈkuɾtu,ˈkuɾtu,nuandjumaː,ðeˈkɨ̃,raʡɓiɗi
+8,narrow,adjective,estreito,ɨʃˈtɾɐjtu,stritu,pikiˈninu,,ɨʃˈtɾɛjtu/apɛɾˈtaɖu,,,ˈsewi/ˈfaɗi
+9,thin,adjective,fino/magro,ˈfinu / ˈmagɾu,dalgadu,,,dɛɫˈgaɖu,nuandjumaː,ˈtõ,ˈsewi
+10,warm,adjective,quente,ˈkẽtɨ,kinti,ˈkẽtɨ,ˈkĩtɨ,ˈkĩdi,kandiɾiŋ,ˈɲue/ˈɲu,ˈwoli
+11,cold,adjective,frio,ˈfɾiu,friu,ˈfɾiu,ˈfɾiw,ˈfɾiu,sumjaː,ˈt͡ʃɔle,ˈɓuɓi
+12,full,adjective,cheio,ˈʃɐju,intcidu,ˈĩtʃi,ˈĩt͡ʃɨ,ˈĩt͡ʃi,faɾjuŋ,ˈrit,ˈʜe:wi
+13,new,adjective,novo,ˈnovu,nobu,ˈnobu,ˈnobu,ˈno:bu,kutoː,oˈʀɐme,ˈkɛsɔ
+14,old,adjective,velho,ˈvɛʎu,bedju,ˈbɛju,ˈbecu,ˈbeʝu,kotoː,ˈũkĩðe,nawˈi
+15,good,adjective,bom,ˈbõ,bon,ˈbõ,ˈbõ,ˈbõ,beteaɾjuŋ,ˈbõɨ̃,ˈmɔʡjɔ
+16,bad,adjective,mau,ˈmaw,mau,ˈmaw,ˈmaw,ˈmaw,amambetea,ˈpɐ̃,boⁿɗɔ
+17,rotten,adjective,podre,ˈpodɾɨ,podri,ˈpodɾi ,ˈpodɾi,ˈpodɾi,tiɲaɾjuŋ,,ˈlɐm:i
+18,dirty,adjective,sujo,ˈsuʒu,susu,ˈsuzu,ˈsusu,ˈsu:su,noreuŋ,ˈlɔr,ˈtu:ni
+19,straight,adjective,direito,diˈɾɐjtu,diretu,ˈrɛtu,diˈɾitu,ˈrɛ:tu/diˈɾɛtu, ɟ͡ʝaɲarjuŋ,ˈbõɨ̃,ˈfe:wi
+20,round,adjective,redondo,ʀɨˈdõðu,rodondu,roˈdõdu,rɨˈdõdu,roɖõɖu,bolobolomaː,,
+21,sharp,adjective,afiado,ɐˈfjadu ,fiadu,ˈgudu,,ˈguɖu,sorjuŋ,ˈmeretɨ,ˈseɓi
+22,dull,adjective,boto,ˈbotu,,kɔɾˈtadu,,kaˈsa:bi/ ˈmoɫgɐ,,ˈtũɨ̃,weˈla
+23,smooth,adjective,liso/ suave,ˈlizu,lisadu,ˈlizʊ,,ˈfinu/ˈlisu,abedjaɾiŋ,,ˈɓowbɾi
+24,wet,adjective,molhado,muˈʎaðu,modjadu,mɔˈdʒadu,mɔˈjadu,moˈʝaɖu,sinandiŋ,ˈmõĩ,ˈɓuguɗɔ
+25,dry,adjective,seco,ˈseku,seku,ˈsɛku,ˈsɛku,ˈsɛ:ku, ɟ͡ʝaːɾiŋ,ˈsɔɫ,ˈɓuɓa
+26,correct,adjective,correto,kuˈʀɛtu,koretu,ˈbõ,ˈsɛɾtu,ˈsɛɾtu/kɔˈɾɛtu,kendoː,ˈbõɨ̃,ˈsaɲi
+27,near,adjective,perto,ˈpɛɾtu,pertu,ˈpɛɾtu,ˈpɛɾtu,ˈpɛɾtu,suteaɾjuŋ,kũˈtũge,ˈɓwati
+28,far,adjective,longe,ˈlõʒɨ,lundju,ˈlũdʒu,ˈloɲu,ˈlũd͡ʒu, ɟ͡ʝaŋfaɾjuŋ,ˈdat,ˈwoɗi
+29,right,adjective,direita,diˈɾɐjtɐ,direta,diˈɾejtɐ,diˈɾejtɐ,diˈrejtɐ,bulubaː,,ˈɲamo
+30,left,adjective,esquerda,ɨʃˈkeɾdɐ,skerda,ɨʃˈkɛɾdɐ,ˈʃkeɾdɐ,ɨʃkeɾdɐ,maraː,,ˈnano
+31,animal,animal,animal,ɐniˈmaɫ,animal,aniˈmal,ɐniˈmal,ɐniˈmaɫ,dafewŋ,,ˈkulːi
+32,fish,animal,peixe,ˈpɐjʃɨ,pis,ˈpis,ˈpis,ˈpis,jeu,kiˈsɛle,ˈliʡji
+33,bird,animal,pássaro,ˈpasɐɾu,pastru,ˈkadʒu,ˈpasɐɾu,ˈabɨʃ/paˈsɐɾu/ˈpaʃtɾu,kuɳo,,ˈt͡ʃolːi
+34,dog,animal,cão,ˈkɐ̃w̃,,kaˈtʃoru,kɐˈt͡ʃoɾ,kɐˈt͡ʃuɾ,ulo,ˈbit,ˈrɐwãɗu
+35,louse,animal,piolho,pˈjoʎu,karanga,kaɾẽˈga,kɐˈɾɐ̃gɐ,kɐˈɾãgɐ,,,tẽɗi
+36,snake,animal,cobra,ˈkɔbɾɐ,kobra,ˈkɔbɾɐ,ˈkɔbɾɐ,ˈkɔbɾɐ,,ˈĩɣwlɐ̃,ˈbɔɗi
+37,worm,animal,bicho,ˈbiʃu,bitcu,ˈiʃka,ˈbit͡ʃu,ˈbi:t͡ʃu,,,ˈkulːi
+38,skin,animal product,pele,ˈpɛlɨ,pele,ˈpɛli,ˈpɛli,ˈpeli,saː,ˈlejt,
+39,meat,animal product,carne,ˈkaɾnɨ,karna,ˈkaɾni,ˈkaɾni,ˈkaɾni,tonoŋ,ˈteu,ˈteo
+40,blood,animal product,sangue,ˈsɐ̃gɨ,sangui,ˈsãgi,ˈsãgi,ˈsɐ̃gɨ,baloː,kiˈsɐ̃,ˈɗiʎɐ
+41,bone,animal product,osso,ˈosu,os,ˈɔs,ˈɔs,ˈɔs,suboː,ˈfuɫ,ˈʡiɛ
+42,fat (n.),animal product,gordura/banha,guɾˈduɾɐ / ˈbɐɲɐ,banha,guɾˈduɾɐ,guɾˈduɾɐ,goɾˈɖuɾɐ,jɛloː,,fejˈfejɾu
+43,egg,animal product,ovo,ˈovu,obu,ˈobu,ˈovu,ˈovu,kuloː,ˈkɐʀe,ˈbɔfɔ
+44,horn,animal product,corno,ˈkoɾnu,tcifri,ˈkifɾi,ˈt͡ʃifɾi,ˈt͡ʃifɾi,timjaŋ,,gaˈlali/aˈlaɗu
+45,tail,animal product,cauda,ˈkawðɐ,rabu,ˈrabu,,ˈrabu,sisɛkeɭo,,ˈlat͡ʃoɭ/ˈlat͡ʃi
+46,feather,animal product,pena,ˈpenɐ,pena,ˈpenɐ,ˈpenɐ,ˈpɛnɐ,biɳoː,ˈkɔlokɔɾ,ˈleɓi/ˈleɓoɭ
+47,hair,body part,cabelo,kɐˈbelu,kabelu,kaˈbelʊ,ka'belu,ˈkabelu,fejŋoː,ˈuɫ,suˈkũɗu
+48,head,body part,cabeça,kɐˈbesɐ,kabesa,kaˈbɛsɐ,ka'bɛsɐ,kaˈbɛsɐ,tjoː,ˈpkɔ,ˈʜoɾɛ/koˈʡɛ
+49,ear,body part,orelha,oˈɾɐʎɐ,oredja,ɔˈreʎɐ,o'ɾeɟa,oˈɾejʎɐ,kotiŋo,,ˈnop:i
+50,eye,body part,olho,ˈoʎu,udju,,ˈoʝo,ˈoʝu,tuloː,ˈkit,giˈɾɛ
+51,nose,body part,nariz,nɐˈɾiʃ,naris,naˈɾis,nɐˈɾis,nɐˈris,ŋa,ˈfũɲe,kiˈnɛɫ
+52,mouth,body part,boca,ˈbokɐ,boka,ˈbɔkɐ,ˈbɔkɐ,ˈbɔ:kɐ,nuŋ,pˈsũ,ˈʜunɔkɔ
+53,tooth,body part,dente,ˈdẽtɨ,dinti,ˈdẽti,ˈdĩti,ˈdĩti,da,kˈsɨt,ˈɲiɗɛ
+54,tongue,body part,língua,ˈlĩgwɐ,lingua,ˈlĩgwɐ,ˈlĩgwɐ,ˈlĩgwɐ,ŋewŋ,kˈdemɛt,'ɗẽgal
+55,fingernail,body part,unha,ˈuɲɐ,unha,ˈuɲɐ,ˈŋuɲɐ,'muɲa,,ũˈkambo,pɛ'ɗale
+56,foot,body part,pé,ˈpɛ,pe,ˈpɛ,ˈpɛ,'pɛ,sjuŋ,kˈfɨ̃,'kɔjɗe
+57,leg,body part,perna,ˈpɛɾnɐ,pe,ˈpɛrnɐ,ˈpɛɾnɐ,'pɛ,utoː,,'poɓi / 'pɔɓɛ
+58,knee,body part,joelho,ʒuˈɐʎu,djudju,ʒuˈelu,ˈɟuɟu,'d͡ʒud͡ʒu,siŋkulo,,'kop:i
+59,hand,body part,mão,ˈmɐ̃w̃,mon,ˈmõ,ˈmõ,mõw̃,buloː,ˈt͡ʃif,'d͡ʒuɗɛ
+60,wing,body part,asa,ˈazɐ,asa,ˈazɐ,ˈazɐ,'azɐ,dapawŋ,,'ɓowad͡ʒi
+61,belly,body part,barriga,baˈʀigɐ,bariga,baˈɾigɐ,bɐˈɾigɐ,bɐ'ɾigɐ,koɳo,ˈɲɛfe,'reɗu
+62,guts,body part,tripas,ˈtɾipɐʃ,tripa,ˈtɾipɐs,ˈtɾipɐ,'tɾipɐ,ɳwo,ũˈbute,te'teki
+63,neck,body part,pescoço,pɨʃˈkosu,garganti,pɨʃˈkozu,gɐrˈgɐ̃tɨ,gɐɾ'gãti,ekɐwŋ,ˈklɨt,'ɗãɗe
+64,back,body part,costas,ˈkɔʃtɐʃ,kosta,ˈkɔʃtɐ,ˈkɔʃtɐ,ˈkɔʃtɐ,koma,ˈtɐ̃,'ɓaw
+65,breast,body part,peito,ˈpɐjtu,pitu,ˈpitu,ˈpitu,'pitu,isisoː,ˈpsɐ̃ɨ̃,'ɓɛrⁿde
+66,heart,body part,coração,kuɾɐˈsɐ̃w̃,korson,kuɾaˈsãw̃,kuɾɐˈsõ,kora'sõw̃,jusoː,ˈfiɲɐ,kora'sõw̃ / 'ɓɛrⁿde
+67,liver,body part,fígado,ˈfigɐðu,figadu,ˈfigɐɾu,ˈfigɐdu,ˈfigaɖu,kifkafu,,'keɠi
+68,drink,body verb,beber,bɨˈbeɾ,bibida,ˈbibi,biˈbidɐ,beˈbiɖɐ,miŋuŋ,siˈgẽ,PL: jaɾe'teɗi S: jaɾe'te
+69,eat,body verb,comer,ku'meɾ,kume,ku'me,kuˈmɛ,ku'me,domoɾoː,uw̃,'ɲamuɠoɭ
+70,bite,body verb,morder,muɾˈdeɾ,murdi,muɾˈdi,ˈmuɾdi,muɾ'ɖi,kjuŋ,ˈdũ,'ɳatuɠoɭ
+71,suck,body verb,chupar,ʃuˈpaɾ,tcupa,tʃuˈpa,ˈt͡ʃupɐ,t͡ʃu'pa,suːsuːɾoː,,'muɾuɠoɭ
+72,spit,body verb,cuspir,kuʃˈpiɾ,kuspi,kuʃˈpi,ˈkuʃpi,kuʃˈpi,tupiɾoː,ˈtuˈfɛt,'tutːuɠoɭ
+73,vomit,body verb,vomitar,vumiˈtaɾ,vomita,ramaˈsa,ˈrɐmɐsɐ,vo'mita,foːno,,'tu:ɾuɠoɭ / 'tu:ɾaɠoɭ 
+74,blow,body verb,soprar,suˈpɾaɾ,supra,suˈpɾa,ˈsupɾa,suˈpɾa,feːɾoː,ˈlɛf,'utːuɠoɭ
+75,breathe,body verb,respirar,ʀɨʃpiˈɾaɾ,rispira,ɨʃpiˈɾa,rɨʃˈpiɾɐ,reʃ'piɾa,niːo,,'fofuɠoɭ
+76,laugh,body verb,rir,ˈʀiɾ,ri,ˈri,ˈri,'ri,ɟeloː,ˈtĩ,'d͡ʒaluɠoɭ
+77,live,body verb,viver,viˈveɾ,vivi,viˈvi,ˈvivi,'vivi,sajaː,,'u:ɾuɠoɭ
+78,die,body verb,morrer,muˈʀeɾ,falsi/muri,muˈɾi,ˈmoɾtu,'muɾi,baluɾoː,ˈlɔd,'majaɠoɭ
+79,red,colour,vermelho,vɨɾˈmɐʎu,burmedju,buɾˈmɐjʊ,burˈmeɟu,buɾ'meʝu,wulemaː,oˈʀɐ̃,bɔ'ɗɛ / 'bɔ'ɗɛʝɔ
+80,green,colour,verde,ˈveɾdɨ,verdi,ˈvɛɾdi,ˈvɛɾdɨ,'vɛɾdi,ɟ͡ʝambakeroː,,'ʜa:kɔ / ʜa'kɔʝɔ
+81,yellow,colour,amarelo,ɐmɐˈɾɛɫu,amarelu,amaˈɾɛlʊ,ɐmɐˈɾɛlu,ama'ɾelu,bulumaː,,nɛ'tejo
+82,white,colour,branco,ˈbɾɐ̃ku,branku,ˈbɾãkʊ,ˈbɾɐ̃ku,ˈbɾãku,kojimaː,uˈʀɨ,da'nejo
+83,black,colour,preto,ˈpɾetu,pretu,ˈpɾɛtʊ,ˈpɾɛtu,ˈpɾɛtu,fimmaː,uˈmõ,ɓa'leʝo
+84,with,conj,com,kõ,ku,ku,ˈku,'ku,niŋ,,‘ɛ
+85,and,conj,e,i,i,i,ˈku / ∅,'ku,naː,,‘ɛ
+86,if,conj,se,sɨ,si,si,ˈsi,'si,niŋ,s'kuɭ,‘si
+87,because,conj,porque,puɾkɨ,purke/purki,,pɐˈbiɐ,pa'biɐ,,peʼβiɐ,‘ɓɛj
+88,tree,environment,árvore,ˈaɾvuɾɨ,pe di/arvuri,ˈaɾvuɾi,,ˈaɾvɨɾɨ,iɾɨsuŋ,ĩʼdikɨ,‘lɛɗe
+89,forest,environment,floresta,fluˈɾɛʃtɐ,floresta/matu,floˈɾɛʃtɐ,ˈmatu,'ma:tu,ulo,,‘lɛɗe
+90,stick,environment,pau,ˈpaw,po,ˈpɔ,ˈpɔ,'pɔ,faloː,'ŋ͡mẽ,‘lɛɠaɭ
+91,fruit,environment,fruta,ˈfɾutɐ,fruta,ˈfɾutɐ,ˈfrutu,ˈfɾutɐ,iɾidjuŋ,'ŋ͡mãgo,
+92,seed,environment,semente,sɨˈmẽtɨ,simenti/simitera,siˈmẽtɨ,ˈkuku,simi'tɛ:ɾa,fiɾifewŋ,,‘awɗi
+93,leaf,environment,folha,ˈfoʎɐ,fodja,ˈfɔliɐ,ˈfoʎɐ,'fɔʝa,ɟaŋbo,,‘ʜa:kɔ
+94,root,environment,raiz,ʀɐˈiʃ,rais,rɐˈis,ɾa'iʃ,rɐˈiʃ,iɾisulo,,‘ɗaɗoɭ
+95,bark,environment,casca da árvore,ˈkaʃkɐdɐˈaɾvuɾɨ,,ˈkaʃkɐdiˈaɾvuɾi,ˈkaʃkɐ,kɐ'ba:ku,koboː,,‘t͡ʃɛɓe
+96,flower,environment,flor,ˈfloɾ,flur,ˈfuloɾ,ˈflɔɾ,'flɔɾ,fuloɾoː,,‘pĩɗi
+97,grass,environment,erva ,ˈɛɾvɐ,padja,ˈɛɾvɐ,ˈpaʎɐ,'paʝa,ɟaŋbo,,‘ʜa:kɔ / ‘ʜuɗo
+98,freeze,environment,congelar,kõʒɨˈlaɾ,kongela,kõˈʒɛla,,kɔ̃'ʒɛla,,,‘bu:mnuɠoɭ
+99,sun,environment,sol,ˈsoɫ,sol,ˈsɔl,ˈsɔl,ˈsɔl,tio,ʼɭe,‘na:ɳe
+100,moon,environment,lua,ˈluɐ,lua,ˈluɐ,ˈluɐ,lũŋa,karo,ʼdĩde,‘lewru
+101,star,environment,estrela,ɨʃˈtɾelɐ,strela,ɨʃˈtɾɛlɐ,ɨsˈtrelɐ,'ɨʃtɾɛlɐ,loːloː,,‘kɔɗe
+102,water,environment,água,ˈaɣwɐ,iagu,ˈiagu,ˈjagu,'ja:gu,ɡjeo,,ⁿdija
+103,rain,environment,chuva,ˈʃuvɐ,tcuba,ˈtʃubɐ,ˈt͡ʃubɐ,'t͡ʃubɐ,sama,χ'ɛsɛ,‘toɓu
+104,river,environment,rio,ˈʀiu,riu,ˈriu,ˈriw,'rju,ba:boloŋ,,‘majo
+105,lake,environment,lago,ˈlaɣu,lagua,ˈlagoɐ,lagu,lɐ'guɐ,badjuŋ,,‘lewoɫ / ‘t͡ʃãɠoɫ
+106,sea,environment,mar,ˈmaɾ,mar,ˈmar,ˈmaɾ,ˈmaɾ,ba:,,'gɛd͡ʒ
+107,salt,environment,sal,ˈsaɫ,sal,ˈsal,ˈsal,'sal,ko:,,'lamɗã
+108,stone,environment,pedra,ˈpɛdɾɐ,pedra,ˈpɛdɾɐ,ˈpɛdɾɐ,ˈpɛdɾɐ,bɛro,,'ʜajɾe / 'kaʔje
+109,sand,environment,areia,ɐˈɾɐjɐ,reia,ˈrejɐ,ˈrejɐ,'ɾejɐ,kɛŋo,,'lejɗi 
+110,dust,environment,pó,ˈpɔ,po,puˈɛɾɐ,puˈɛɾɐ,'pwɛɾɐ,kaŋkawŋ,,'t͡ʃõɗi
+111,earth,environment,Terra,ˈtɛʀɐ,tera,ˈtɛɾɐ,ˈt͡ʃõ,'t͡ʃõw̃,duɳja,,'lejɗi 
+112,cloud,environment,nuvem,ˈnuvɐ̃j̃,nuven,ˈnuvɐ̃j̃,ˈnuvẽ,'nuvẽ,sawŋ,,'baɲi
+113,fog,environment,nevoeiro,nɨvwˈɐjɾu,kasimba/fumansa,sɛˈɾɛnʊ / sɛˈrɛnu,sɨˈɾen,'tĩgi,koŋbo:,,'ɗiwi
+114,sky,environment,céu,ˈsɛw,seu,ˈsɛw,ˈsew,'sew ,sawŋ,,'kam:o
+115,wind,environment,vento,ˈvẽtu,bentu,ˈbẽtu,ˈbẽtu,'bẽtu,foŋo:,,'ʜẽɗu
+116,snow,environment,neve,ˈnɛvɨ,,ˈnɛvi,,ˈnevi,ʒeɭo,,
+117,ice,environment,gelo,ˈʒelu,djelo,ˈʒelu,ˈʒelu,ˈʒelu,ʒeɭo,,'ɡlas
+118,smoke,environment,fumo,ˈfumu,fumu,ˈfumu,ˈfumu,ˈfumu,sisjo:,,'t͡ʃuɾki
+119,fire,environment,incêndio,ĩˈsẽdju,fugu,ĩˈsɛ̃dju,ˈfugu,'fogu,taka,,'ʜiɗe
+120,ashes,environment,cinzas,ˈsĩzɐʃ,sinsa/po,ˈsĩsɐ,ˈsĩsa,'sĩsɐ,jɛɳiɾo:,,ɗõɗi
+121,burn,environment,queima,ˈkɐjmɐ,kema,kemɐˈduɾɐ,ˈkɛmɐ,'kɛma,siːlo:,,'sumuɠoɭ
+122,road,environment,caminho,kɐˈmiɲu,kaminhu,kaˈmiɲu,kɐˈmiɲu,kaˈmiɲu,koŋkoː,,'lawoɭ
+123,mountain,environment,montanha,mõˈtɐɲɐ,montanha,mõˈtɐɲɐ,mõˈtaɲɐ,õˈtaɲa,,,ˈfɛɾlɔ
+124,woman,human,mulher,muˈʎɛɾ,mindjer,mĩˈdʒɛɾ,mĩˈjɛɾ,mĩˈgjɛɾ,musoː,,ˈɗɛɓɔ
+125,man (adult male),human,homem,ˈɔmɐ̃j̃,omi,ˈɔmi,ˈɔmi,ˈomi,kewo,,ˈgɔɾuko
+126,man (human being),human,ser humano,ˈseɾ uˈmɐnu,ser? umanu,pɛkaˈdoɾɨs,pɛkaˈdoɾ,pɛkaˈɗuɾ,adamandiuŋ,,taˈɠaɗo
+127,child,human,criança,ˈkɾjɐ̃sɐ,kriansa,ˈkɾjɐ̃zɐ,miˈninu,miˈninu,dindiuŋ,,t͡ʃukaˈlũ
+128,wife,human,mulher,muˈʎɛɾ,mindjer,mĩˈdʒɛɾ,mĩˈɟɛɾ,mĩˈd͡ʒɛɾ,,,ˈɗɛɓɔ
+129,husband,human,marido,mɐˈɾidu,"maridu, spoza",maɾiˈdu,ˈɔmẽ,ˈomi,,,ˈgɔɾuko/ˈgẽɗɐ/mo:ˈɗi
+130,mother,human,mãe,ˈmɐ̃j̃,mai,maˈmɛ,maˈmɛ,ˈmame,baːmaː,nɨ,ˈnɛne
+131,father,human,pai,ˈpaj,pai,paˈpɛ,paˈpɛ,ˈpape,faːmaː,,ˈbabɐ
+132,name,human,nome,ˈnomɨ,nomi,ˈnomi,ˈnɔmi,ˈnɔ:mi,toː,,ˈĩɗe
+133,sing,human verb,cantar,kɐ̃ˈtaɾ,kanta,ˈkãta,ˈkɐ̃tɐ,ˈkãtɐ,denkilaː,ʙɾipɨ,i:muˈɠoɭ
+134,play,human verb,tocar,tuˈkaɾ,toka,ˈtoka,ˈtɔkɐ,ˈtɔkɐ,kosiɾoː,ŋ͡maʃ,ˈpiwɠoɭ
+135,swell,human verb,engolir,ẽguˈliɾ,nguli,ẽguˈli,ĩˈguli,ũguˈli,kunuŋdiɾoː,na,ˈmɔɗuɠoɭ
+136,kill,impact,matar,mɐˈtaɾ,mata,ˈmata,ˈmatɐ,ˈmɐtɐ,faːɾoː,ɦabɨ,ˈwaɾuɠoɭ
+137,fight,impact,lutar,luˈtaɾ,luta,,ˈlutɐ,ˈlutɐ,,kutɨ,ˈt͡ʃip:iɾuɠoɭ
+138,hunt,impact,caçar,kɐˈsaɾ,kasa,mõˈtiɐ,ˈmõtia,ˈmõtja,,,ˈɗɐn:uɠoɭ
+139,hit,impact,bater,bɐˈteɾ,bati,bɔfɔˈtaɾ,ˈsutɐ,ˈsutɐ,tuɾubusoː,ʁosɨ,ˈlip:uɠoɭ
+140,cut,impact,cortar,kuɾˈtaɾ,korta,kɔɾˈtaɾ,ˈkɔɾtɐ,'kɔɾta,kuntuɾoː,dɛsɨ,'tat͡ʃuɠoɭ
+141,split,impact,dividir,diviˈdiɾ,dibidi,diviˈdiɾ,diviˈdi,di'bidi / si'para,talaɾoː,dɛmɨ,sẽduɠoɭ
+142,stab,impact,esfaquear,ʃfɐˈkjaɾ,fakia,fɐkiˈa,puˈɲɛlɐ,fa'kiɐ / 'kutula / pu'ɲalɐ,,iu,
+143,scratch,impact,arranhar,ɐʀɐˈɲaɾ,ranha,ˈraɲɐ,ˈraɲɐ,'raɲɐ,,,ʝap:iɾu'ɠoɭ
+144,dig,impact,cavar,kɐˈvaɾ,koba,ˈkobɐ,ˈkɔbɐ,'kɔbɐ,sindiɾoː,,'asuɠoɭ
+145,at,location,em,ˈɐ̃j̃,,ˈɐ̃j̃,,'pa,kaɾaloː,,
+146,in,location,em,ˈɐ̃j̃,na,ˈɐ̃j̃,ˈnɐ,'na,,a,'ka
+147,sew,misc verb,coser,kuˈzeɾ,kusi,ˈkusi,ˈkusi,'kusi,,,'ɲoʔuɠoɭ
+148,count,misc verb,contar,kõˈtaɾ,konta,ˈkõta,ˈkõtɐ,'kɔ̃ta,kontiɾoː,indemɨ,'limuɠoɭ
+149,swim,motion,nadar,nɐˈdaɾ,nada,ˈnadɐ,ˈnadɐ,'nada,,wa,'warlaɠoɭ
+150,fly (v.),motion,voar,ˈvwaɾ/ˈvuaɾ,bua,ˈbwɐ,ˈbuɐ,'bwa,tindiroː,ɭɛmɨ,'djuɠoɭ
+151,walk,motion,caminhar,kɐmiˈɲaɾ,ianda,iˈɐ̃da,ˈjɐ̃dɐ,'jãda,taːmoː,fotɨ,'ja:ɠoɭ
+152,come,motion,vir,ˈviɾ,bin,ˈbĩ,ˈbĩ,'bĩ,naː/naːɾjuŋ,bintɨ,'aruɠoɭ
+153,lie,motion,estar deitado,ɨʃˈtaɾ dɐjˈtadu,dita,diˈta,ˈditɐ,'dita,laːɾiŋ,aχʼĩge,'walaɠoɭ'waluɠoɭ
+154,sit,motion,sentar,sẽˈtaɾ,sinta,ˈsẽta,ˈsĩtɐ,'sĩta,siːo,ŋ͡mese,'d͡ʒɔɗaɠoɭ
+155,stand,motion,estar em pé,ɨʃˈtaɾ ˈɐ̃j̃ ˈpɛ,firma,plãˈta,ˈjɐ̃dɐ,'fiɾma,loː,,'daɾuɠoɭ
+156,turn,motion,girar,ʒiˈɾaɾ,rodia,ˈrõdɐ,ˈviɾɐ,'viɾɐ,muɾumuɾuŋ,,'bɛrlaɠoɭ
+157,fall,motion,cair,kɐˈiɾ,kai,kaˈi,ˈkaj,'kɐj,bojoː,,'januɠoɭ
+158,float,motion,flutuar,flutuˈaɾ,boia,ˈbɔjɐ,,'bɔjɐ,,,'wuⁿguɠoɭ
+159,flow,motion,fluir,fluˈiɾ,darma,,ˈdaɾmɐ,'dɛɾma,,wasɨ,'ʜibːuɠoɭ
+160,see,perception verb,ver,ˈveɾ,odja / djubi,ˈdʒubi,ˈɔɟɐ,'d͡ʒubi,d͡ʒuːbeːɾoː,bikɨ,'da:ɾaɠoɭ
+161,hear,perception verb,ouvir,owˈviɾ,obi,ˈɔbi,ˈobi,o'bi,mojoː,siŋ͡mɨ,'nanuɠoɭ
+162,know,perception verb,saber,sɐˈbeɾ,sabi / sibi ,siˈbi,ˈsɨbi,'sibi,londoː,ɢwinɨ,'ãⁿduɠoɭ
+163,think,perception verb,pensar,pẽˈsaɾ,lembra ,ˈpẽsa,ˈlẽbɾa,'lɛ̃ᵐbɾa,miːɾoː,wuntɛ,'aⁿdituɠoɭ
+164,smell,perception verb,cheirar,ʃɐjˈɾaɾ,tcera,kɛˈɾɐ,ˈt͡ʃɛɾɐ,'t͡ʃɛɾa,noːɾoː,pʼã,'uɾuɠoɭ
+165,fear,perception verb,temer,tɨˈmeɾ,medi ,,ˈmedu,'me:ɖi,,ũkɔɭɛ,'wulaɠoɭ
+166,sleep,perception verb,dormir,duɾˈmiɾ,durmi,duɾˈmi,ˈduɾmɨ,duɾ'mi,siːnoː,pũ,'ɗanaɠoɭ
+167,say,perception verb,dizer,diˈzeɾ,papia / fala,ˈfala/ paˈpia,ˈpapja / ˈfala,'fala,djaːmu,ja,'uowlaɠoɭ
+168,I,pro,eu,ˈew,ami,aˈmĩ,aˈmi,ɐ'mi,nte,ɲe,'mĩ
+169,you (singular),pro,tu,ˈtu,abo,aˈbo,aˈbɔ,ɐ'bo,ite,wudi,'ã
+170,he,pro,ele,ˈelɨ,el,ˈɛli,ˈɛl,'ɛl,ate,ũdi,'kãkɔ
+171,we,pro,nós,ˈnɔʃ,anos,aˈnɔs,aˈnɔs,a'nɔs,ntɛlu,ba,mɛ'nɛ̃
+172,you (plural),pro,vós/vocês,ˈvɔʃ / vɔˈseʃ,abos,aˈbos,aˈbɔs,a'bɔs,ntɛlu,,'ɔnɔ̃
+173,they,pro,eles/elas,ˈelɨʃ / ˈɛlɐʃ,elis,ˈelis/ ˈɛlis,ˈelis,'elis,itɛlo,bandi,'kãɓɛ
+174,this,pro,isto/isso,ˈiʃtu / ˈisu,es,ˈɛs/ˈuˈotɾu,ˈɛs,'ɛs,ŋiŋ,ɡwilkobo,ˈɗũ
+175,that,pro,aquilo,ɐˈkilu,kil,,ˈkelɐ,ˈkila,odoː,gwilkebe,ˈɗũɗa
+176,here,pro,aqui,ɐˈki,li,ˈli ,ˈli,'li,jaŋ,,ˈɗɔ
+177,there,pro,lá,ˈla,la,ˈla,ˈla,'la,jɛ,,ˈɗa
+178,who,pro,quem,kɐ̃j̃,kin,ˈikĩ,ˈkĩ,'kĩ,ŋaːdiː,ɦila,'ʜɔ̃bɔ
+179,what,pro,o quê,ˈuˈke,kal,ˈke,ˈkal,ˈkal,ŋaːdiːroŋ,wil,'ʜɔ̃ɗũ
+180,where,pro,onde,ˈõdɨ,(na) nunde ,enũˈde,ˈnũdɛ,nũ'dɛ,muŋto,anuma,'ʜɔ̃tɔ
+181,when,pro,quando,ˈkwɐ̃du,kuandu,ˈkalmuˈmẽtu/ˈkalˈtẽpu,,ˈkwãdu,watidjumaː,,'ʜɔ̃ɗɛ
+182,how,pro,como,ˈkomu / ˈkumu,kuma,ˈkuma,ˈkuma,ku'ma,ŋaːdiː,abila,'ʜɔn:ɔ
+183,not,quant,nenhum,nɨˈɲũ,nau,neˈũ,ˈnaw,ˈnɐ̃w̃,anifeŋ,,ɔ'ʔɔ
+184,all,quant,todos,ˈtoðuʃ,tudu,ˈtudu,ˈtudu,ˈtudu,abeː,ŋ͡mĩ,ˈfow
+185,many,quant,muitos,ˈmũj̃tuʃ,muitu ,ˈkiu,ˈt͡ʃiw,mãgaˈdɨ,jaːmaː,pʼa,ˈbwi
+186,some,quant,alguns,aɫˈɡũʃ      ,algun,alˈɡũs,aɫˈgũʃ,alˈgũ,dumoŋdʝwŋ,,"ˈgokːũ
+"
+187,few,quant,poucos,ˈpokuʃ,puku,ˈũbɔˈkadu,ˈpoku,bo'kaɖu,dimoŋdimaː,duɭe,ˈgokːũ
+188,other,quant,outros,ˈotɾuʃ,utru,ˈutɾus,ˈotɾu,ˈutɾu,dumoŋdʝwŋ,koɭo,ˈɠɔɗo
+189,one,quant,um,ˈũ,un,ˈũ,ˈũ,ˈũ,kilɛŋ,ɦũde,gɔˈʔɔ
+190,two,quant,dois,ˈdojʃ,duss,ˈdojʃ,ˈdos,ˈdojʃ,fulaː,fũde,ˈiɗi
+191,three,quant,três,ˈtɾeʃ,triss,ˈtɾejʃ,ˈtɾes,ˈtɾis,sabaː,k͡sipɨ,ɗaˈɗi
+192,four,quant,quatro,ˈkwatɾu,quátro,ˈkwatɾu,ˈkwɐtɾu,ˈkwa:tɾu,ɳaɳiː,taʒɭa,ˈnɐj
+193,five,quant,cinco,ˈsĩku,cincu,ˈsĩku,ˈsĩku,ˈsĩku,lulu,t͡ʃifɨ,ˈd͡ʒoj
+194,night,time,noite,ˈnojtɨ,noti,ˈnojti,ˈnojtɨ,di'nojti,suːtoː,kamaʁa,ˈd͡ʒɛm:ɐ
+195,day,time,dia,ˈdiɐ,dia,ˈdiɐ,ˈdiɐ,di'diɐ,tiːloː,kijdu,ɲaˈlɔɾmɐ
+196,year,time,ano,ˈɐnu   ,anu,ˈanu,ˈanu,ˈanu,saŋʝoː,ʁɛsɛ,ˈʜitãⁿde
+197,rope,tool,corda,ˈkɔɾ.dɐ,korda,ˈkoɾdɐ,ˈkɔɾdɐ,ˈkɔɾdɐ,duːloː,kebosɨ,ˈɓɔɠoɭ
+198,give,transfer,dar,ˈdaɾ,da,ˈda,ˈda,ˈda,diːna,ɲana,ˈd͡ʒɐn:uɠoɭ
+199,hold,transfer,segurar,sɨ.ɣuˈɾaɾ  ,sugura / pega-pega,ˈpega/ suguˈɾa,ˈpegɐ,ˈpɛgɐ,abambaŋ,taki,ˈnãguɠoɭ
+200,squeeze,transfer,espremer,iʃpɾɨmeɾ ,pirmi,ˈpɾimi,ˈpeɾmi,piɾˈmi,amoandi,botɨ,ˈʜamuɠoɭ / ˈʜamaɠoɭ
+201,rub,transfer,esfregar,iʃ.fɾɨˈɣaɾ     ,ferga,,ˈfɛɾgɐ,ˈfɛɾga,,infeti,ˈɓɔsaɠoɭ
+202,wash,transfer,lavar,lɐˈvaɾ,laba,laˈba,ˈlabɐ,la'ba,kuːɾoː,wasa,ˈɭɔtaɠoɭ
+203,wipe,transfer,limpar,lĩˈpaɾ,limpa,lĩˈpa,ˈlĩpɐ,ˈlĩpa,fitaɾoː /afita,bata,ˈlaʡɓĩɠoɭ
+204,pull,transfer,puxar,puˈʃaɾ,puxa / djunda,dʒũˈda,ˈɟũdɐ,ˈd͡ʒũda,asaba,buɭ,'poɾuɠoɭ
+205,push,transfer,empurrar,ẽpuˈʀaɾ,mpura,pĩˈtʃa,ˈpĩt͡ʃɐ,ˈpĩt͡ʃa,adiɾɐ,ẽbuɭfutɨ,'duɲuɠoɭ
+206,throw,transfer,lançar,lɐ̃ˈsaɾ,lansa,mãˈdɐ,ˈmɐ̃da,ˈfɛɾt͡ʃa,abuŋ,safɨ,'wɛɗuɠoɭ/'wɛɗaɠoɭ
+207,tie,transfer,amarrar,ɐmɐˈʀaɾ,mara,ˈmaɾɐ,ˈmaɾɐ,ˈmaɾa,sitiɾoː,ɦal,ˈʜaɓaɠoɭ
